@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 21
+Main-Class: Program_8.Program_8.App
+Created-By: Maven Integration for Eclipse
+
